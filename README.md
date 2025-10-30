@@ -1,7 +1,7 @@
 <h1>Olá! Sou o Gustavo Freire</h1>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghfreiree&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=ghfreiree&show_icons=true&theme=radical"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghfreiree&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
@@ -13,6 +13,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img aling="center" width="60px" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
           
   </div>
 <br>
