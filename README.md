@@ -1,4 +1,10 @@
-<h1>Olá! Sou o Gustavo Freire</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004E87&height=120&section=header"/>
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE8DFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo+Freire;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+
 
 <div align="left">
   <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=ghfreiree&show_icons=true&theme=radical"  />
