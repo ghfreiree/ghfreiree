@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F0F0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Gustavo+Freire;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 
-<div align="left">
-  <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=ghfreiree&show_icons=true&theme=radical"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghfreiree&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghfreiree&show_icons=true&theme=radical&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghfreiree&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="48%" />
 </div>
 <br>
 
